@@ -8,7 +8,7 @@ This code classifies a hyperspectral image using a basic vision transformer mode
 
 
 ## Acknowledgements
-This project utilizes the [EscVM_YT] ([https://github.com/author/awesome-package](https://github.com/EscVM/EscVM_YT)) developed by [Vittorio Mazzia ]([https://github.com/author](https://github.com/EscVM)).
+This project utilizes the [EscVM_YT]([https://github.com/EscVM/EscVM_YT]) developed by [Vittorio Mazzia]([https://github.com/EscVM]).
 
 The EscVM_YT played a crucial role in implementing my codes within this project.
 
