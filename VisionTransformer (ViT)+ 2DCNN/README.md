@@ -6,10 +6,10 @@
 
 This code classifies a hyperspectral image using a basic vision transformer and 2D CNN models.
 
-- 2D-CNN + VisionTransformer_HSI.ipynb :
+- 2D_CNN_VisionTransformer_HSI.ipynb :
   * Before the ViT model, it employs several Conv2D layers. However, no Pooling layers were used. So, the spatial dimension of images were not changes.
  
-- 2D-CNN + VisionTransformer_version 02_HSI.ipynb:
+- 2D_CNN_VisionTransformer_version 02_HSI.ipynb:
   *  Before the ViT model, it employs several Conv2D and Pooling layers. Therefore, the spatial dimension of images where changed from 21*21 to 3*3 pixels.
   *  Beacause the spatial dimesnsion was decreased significantly, we set the patch size of ViT model to 1*1 pixel
 
